@@ -34,6 +34,7 @@ body {
     font-size: 6vmin;
     color: rgba(255, 0, 0, 0.683);
     font-weight: bold;
+    background-color: azure;
 }
 
 #reset-btn {
