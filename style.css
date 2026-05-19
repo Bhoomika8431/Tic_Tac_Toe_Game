@@ -7,6 +7,10 @@ body {
     background-color: darkcyan;
     text-align: center;
 }
+h1 {
+    color: black;
+    font-weight: 800;
+}
 
 .container {
     height: 70vh;
